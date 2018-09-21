@@ -1,5 +1,8 @@
 _repo: Luck-and-Pluck-or-John-Oakley-s-Inheritance_54265
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54265-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Alger, Horatio, Jr.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54265#Luck-and-Pluck-or-John-Oakley-s-Inheritance
 gutenberg_issued: '2017-03-01'
 gutenberg_type: Text
 identifiers:
